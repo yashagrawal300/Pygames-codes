@@ -1,6 +1,6 @@
-#  Clock
+<center><h1>  Clock</h1></center>
 
-## Analog Clock
+<h2> Analog Clock</h2>
 <p>
 <p>
 This is the Analog clock that I created but it still needs to fixed a little.
@@ -12,7 +12,7 @@ This is the Analog clock that I created but it still needs to fixed a little.
 <br>
 <hr>
 <br>
-## Digital Clock
+<h2> Digital Clock</h2>
 <p>
 <p>
 This is the Digital Clock shows both time and date.
